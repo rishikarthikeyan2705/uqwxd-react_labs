@@ -25,6 +25,7 @@ const App = () => {
       }
 
   }
+  
   // Add the deleteToDo code here
 
   function deleteTodo(id){
